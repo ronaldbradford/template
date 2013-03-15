@@ -1,0 +1,13 @@
+Twitter Bootstrap Files
+
+Last Updated:   March 1, 2013
+
+curl http://twitter.github.com/bootstrap/assets/bootstrap.zip > bootstrap.zip
+unzip bootstrap.zip
+rm -rf css js img
+mv bootstrap/* .
+rm -rf bootstrap*
+
+CDN Use
+
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>

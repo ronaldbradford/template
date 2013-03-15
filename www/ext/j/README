@@ -1,0 +1,25 @@
+JQuery 
+
+Last Updated March 1, 2013
+
+curl http://code.jquery.com/jquery-1.9.1.min.js > js/jquery.min.js
+curl http://code.jquery.com/jquery-1.9.1.js > js/jquery.js
+
+For CDN use
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+JQuery Validate
+
+# curl http://jquery.bassistance.de/validate/jquery-validation-1.11.0.zip > jquery.validate.zip
+
+curl http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/jquery.validate.min.js > js/jquery.validate.min.js
+
+
+For CDN Use
+
+http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/jquery.validate.js
+http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/jquery.validate.min.js
+http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/additional-methods.js
+http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/additional-methods.min.js
