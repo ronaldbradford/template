@@ -1,4 +1,4 @@
-      <footer>
+      <footer class="footer">
       &nbsp;&middot;&nbsp;<span class="TODO">Template</span> by <a href="http://techcofounders.com">Tech Co Founders</a>&nbsp;&middot;&nbsp;One Penn Plaza #6139, New York, NY 1
 0119&nbsp;&middot;&nbsp;<br />
 
