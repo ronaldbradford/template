@@ -10,19 +10,19 @@
         <div class="nav-collapse">
           <ul class="nav">
             <li class="divider-vertical"></li>
-            <li <? if ($nav == 'home') echo 'class="active"';?>><a href="/">Home</a></li>
+            <li <?php if ($nav == 'home') echo 'class="active"';?>><a href="/">Home</a></li>
             <li class="divider-vertical"></li>
-            <li <? if ($nav == 'option2') echo 'class="active"';?>><a href="#">Option 2</a></li>
+            <li <?php if ($nav == 'option2') echo 'class="active"';?>><a href="#">Option 2</a></li>
             <li class="divider-vertical"></li>
-            <li <? if ($nav == 'option3') echo 'class="active"';?>><a href="#">Option 3</a></li>
+            <li <?php if ($nav == 'option3') echo 'class="active"';?>><a href="#">Option 3</a></li>
             <li class="divider-vertical"></li>
-            <li <? if ($nav == 'option4') echo 'class="active"';?>><a href="#">Option 4</a></li>
+            <li <?php if ($nav == 'option4') echo 'class="active"';?>><a href="#">Option 4</a></li>
             <li class="divider-vertical"></li>
-            <li <? if ($nav == 'login') echo 'class="active"';?>><a href="/login">Login</a></li>
+            <li <?php if ($nav == 'login') echo 'class="active"';?>><a href="/login">Login</a></li>
             <li class="divider-vertical"></li>
           </ul>
-        </div><!--/.nav-collapse -->
-      </div> <!--container -->
+        </div><!--nav-collapse-->
+      </div> <!--container-->
     </div> <!--navbar-inner-->
   </div> <!--navbar-->
 
